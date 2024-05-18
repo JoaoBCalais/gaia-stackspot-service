@@ -1,0 +1,1 @@
+# gaia-stackspot-service
